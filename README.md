@@ -1,4 +1,4 @@
-#Inline Async Custom Device Wizard#
+### Inline Async Custom Device Wizard ###
 
 The **VeriStand Inline Async Wizard**, when built and installed, provides a LabVIEW project wizard for generating new VeriStand Inline-Hardware custom devices using the Inline-Async API. 
 
