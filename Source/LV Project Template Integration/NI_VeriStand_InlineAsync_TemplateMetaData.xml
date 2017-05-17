@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='windows-1252' standalone='yes'?>
+<MetaData>
+
+<ProjectTemplate>
+  <Title localize="yes">NI VeriStand Inline-Async Custom Device</Title>
+  <MetaDataClass>NIVS_CDW_MetaDataObj/NIVS_CDW_MetaDataObj.lvclass</MetaDataClass>
+  <Description localize="yes">Creates an NI VeriStand Inline HW custom device project using the Inline-Async API.</Description>
+  <Filters localize="yes">NI VeriStand</Filters>
+  <Keywords localize="yes">NIVS;NI VeriStand;Custom Device</Keywords>
+  <LocationPath>NI VeriStand/Inline Async Wizard</LocationPath>
+  <ProjectPath>Null.lvproj</ProjectPath>
+  <ListboxImagePath>Template Files/Veristand_icon_32x32.png</ListboxImagePath>
+  <DocumentationPath></DocumentationPath>
+  <CustomVIMode>AfterPage2NoUI</CustomVIMode>
+  <CustomVIPath>NIVS_CDW_MetaDataObj/AfterPage2_GenCD.vi</CustomVIPath>
+  <SortPriority>250</SortPriority>
+</ProjectTemplate>
+
+</MetaData>
