@@ -17,3 +17,5 @@ IP has been tested by developer. It meets VeriStand addon coding best practices.
 ### Dependencies ###
 
 NI Veristand 2015 or later
+
+[Microsoft HTML Help Workshop]( https://www.microsoft.com/en-us/download/details.aspx?id=21138)
