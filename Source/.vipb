@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-02-05 17:21:53" Modified_Date="2017-05-17 11:27:16" Creator="grstarka" Comments="" ID="b29de2a06045c166da9ee9dc4fa7cbdc">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-02-05 17:21:53" Modified_Date="2018-12-28 13:56:51" Creator="grstarka" Comments="" ID="68e4ed5be91809574c0ec31695fad9a7">
   <Library_General_Settings>
     <Package_File_Name>ni_tmpl_veristand_inline_async_custom_device</Package_File_Name>
-    <Library_Version>1.0.0.44</Library_Version>
+    <Library_Version>1.0.0.45</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\Built</Library_Output_Folder>
